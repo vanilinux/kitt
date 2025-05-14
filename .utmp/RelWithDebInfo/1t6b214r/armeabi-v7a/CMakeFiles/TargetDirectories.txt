@@ -1,0 +1,5 @@
+E:/Kot/Kot/.utmp/RelWithDebInfo/1t6b214r/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/Kot/Kot/.utmp/RelWithDebInfo/1t6b214r/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+E:/Kot/Kot/.utmp/RelWithDebInfo/1t6b214r/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+E:/Kot/Kot/.utmp/RelWithDebInfo/1t6b214r/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+E:/Kot/Kot/.utmp/RelWithDebInfo/1t6b214r/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

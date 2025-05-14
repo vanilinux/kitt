@@ -1,0 +1,5 @@
+E:/Kot/Kot/.utmp/RelWithDebInfo/1t6b214r/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/Kot/Kot/.utmp/RelWithDebInfo/1t6b214r/arm64-v8a/CMakeFiles/rebuild_cache.dir
+E:/Kot/Kot/.utmp/RelWithDebInfo/1t6b214r/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+E:/Kot/Kot/.utmp/RelWithDebInfo/1t6b214r/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+E:/Kot/Kot/.utmp/RelWithDebInfo/1t6b214r/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
